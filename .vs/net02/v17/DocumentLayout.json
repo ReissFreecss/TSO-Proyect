@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luism\\source\\repos\\net02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|c:\\users\\luism\\source\\repos\\net02\\net02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\alumnosprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\alumnosprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\alumnosprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\alumnosprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\data\\acontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\data\\acontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\bdsimple\\bd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\bdsimple\\bd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\alumnosokds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\alumnosokds.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\tools\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\tools\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\archivo\\elevarcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\archivo\\elevarcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\altas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\archivo\\elevarcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\archivo\\elevarcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\alumnosdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\alumnosdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|C:\\Users\\luism\\source\\repos\\net02\\net02\\views\\bdsimple\\bd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1E3CA4-FD51-41F2-9AD9-585F77DEB2F5}|net02\\net02.csproj|solutionrelative:net02\\views\\bdsimple\\bd2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "modificar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\modificar.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\modificar.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\modificar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "net02\\Views\\modificar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:33:50.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bd2.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\BDSimple\\bd2.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\BDSimple\\bd2.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\BDSimple\\bd2.cs",
+              "RelativeToolTip": "net02\\Views\\BDSimple\\bd2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwEMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:26:44.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnosPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\AlumnosPrincipal.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\AlumnosPrincipal.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\AlumnosPrincipal.cs",
+              "RelativeToolTip": "net02\\Views\\AlumnosPrincipal.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAD4vx0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:23:29.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AlumnosDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\AlumnosDataSet.xsd",
+              "RelativeDocumentMoniker": "net02\\AlumnosDataSet.xsd",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\AlumnosDataSet.xsd",
+              "RelativeToolTip": "net02\\AlumnosDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-03-14T17:15:34.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "altas.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\altas.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\altas.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\altas.cs",
+              "RelativeToolTip": "net02\\Views\\altas.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwCkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:11:11.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "altas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\altas.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\altas.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\altas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "net02\\Views\\altas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:57:37.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Program.cs",
+              "RelativeDocumentMoniker": "net02\\Program.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Program.cs",
+              "RelativeToolTip": "net02\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:29:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modificar.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\modificar.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\modificar.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\modificar.cs",
+              "RelativeToolTip": "net02\\Views\\modificar.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAEwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:36:45.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "elevarCoordinador.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\Archivo\\elevarCoordinador.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\Archivo\\elevarCoordinador.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\Archivo\\elevarCoordinador.cs",
+              "RelativeToolTip": "net02\\Views\\Archivo\\elevarCoordinador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:36:56.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnosPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\AlumnosPrincipal.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\AlumnosPrincipal.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\AlumnosPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "net02\\Views\\AlumnosPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:17:26.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlumnosOKDS.xsd",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\AlumnosOKDS.xsd",
+              "RelativeDocumentMoniker": "net02\\AlumnosOKDS.xsd",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\AlumnosOKDS.xsd",
+              "RelativeToolTip": "net02\\AlumnosOKDS.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-03-21T17:20:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "elevarCoordinador.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\Archivo\\elevarCoordinador.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\Archivo\\elevarCoordinador.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\Archivo\\elevarCoordinador.cs [Dise\u00F1o]",
+              "RelativeToolTip": "net02\\Views\\Archivo\\elevarCoordinador.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:36:50.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Permisos.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Tools\\Permisos.cs",
+              "RelativeDocumentMoniker": "net02\\Tools\\Permisos.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Tools\\Permisos.cs",
+              "RelativeToolTip": "net02\\Tools\\Permisos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:14:22.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\Menu.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\Menu.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\Menu.cs",
+              "RelativeToolTip": "net02\\Views\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:17:40.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AContext.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Data\\AContext.cs",
+              "RelativeDocumentMoniker": "net02\\Data\\AContext.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Data\\AContext.cs",
+              "RelativeToolTip": "net02\\Data\\AContext.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA2wFkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:52:32.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuariosModel.cs",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Models\\UsuariosModel.cs",
+              "RelativeDocumentMoniker": "net02\\Models\\UsuariosModel.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Models\\UsuariosModel.cs",
+              "RelativeToolTip": "net02\\Models\\UsuariosModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:24:59.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bd2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\BDSimple\\bd2.cs",
+              "RelativeDocumentMoniker": "net02\\Views\\BDSimple\\bd2.cs",
+              "ToolTip": "C:\\Users\\luism\\source\\repos\\net02\\net02\\Views\\BDSimple\\bd2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "net02\\Views\\BDSimple\\bd2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:26:13.542Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 20,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

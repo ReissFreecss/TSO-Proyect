@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AlumnosDataSet" targetNamespace="http://tempuri.org/AlumnosDataSet.xsd" xmlns:mstns="http://tempuri.org/AlumnosDataSet.xsd" xmlns="http://tempuri.org/AlumnosDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="curp_xa_2023ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="curp_xa_2023ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.net02.Properties.Settings.GlobalReference.Default.curp_xa_2023ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTableAlumnosTableAdapter" GeneratorDataComponentClassName="DataTableAlumnosTableAdapter" Name="DataTableAlumnos" UserDataComponentName="DataTableAlumnosTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="curp_xa_2023ConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT Alumnos.NC, Alumnos.Nombre, Carreras.Nombre AS Carrera
+FROM     Alumnos INNER JOIN
+                  Carreras ON Alumnos.IDCarrera = Carreras.ID
+WHERE  (Alumnos.Borrado &lt;&gt; 1)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NC" DataSetColumn="NC" />
+              <Mapping SourceColumn="Nombre" DataSetColumn="Nombre" />
+              <Mapping SourceColumn="Carrera" DataSetColumn="Carrera" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AlumnosDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="AlumnosDataSet" msprop:Generator_DataSetName="AlumnosDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTableAlumnos" msprop:Generator_RowEvHandlerName="DataTableAlumnosRowChangeEventHandler" msprop:Generator_RowDeletedName="DataTableAlumnosRowDeleted" msprop:Generator_RowDeletingName="DataTableAlumnosRowDeleting" msprop:Generator_RowEvArgName="DataTableAlumnosRowChangeEvent" msprop:Generator_TablePropName="DataTableAlumnos" msprop:Generator_RowChangedName="DataTableAlumnosRowChanged" msprop:Generator_RowChangingName="DataTableAlumnosRowChanging" msprop:Generator_TableClassName="DataTableAlumnosDataTable" msprop:Generator_RowClassName="DataTableAlumnosRow" msprop:Generator_TableVarName="tableDataTableAlumnos" msprop:Generator_UserTableName="DataTableAlumnos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NC" msprop:Generator_ColumnPropNameInRow="NC" msprop:Generator_ColumnPropNameInTable="NCColumn" msprop:Generator_ColumnVarNameInTable="columnNC" msprop:Generator_UserColumnName="NC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Nombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_UserColumnName="Nombre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Carrera" msprop:Generator_ColumnPropNameInRow="Carrera" msprop:Generator_ColumnPropNameInTable="CarreraColumn" msprop:Generator_ColumnVarNameInTable="columnCarrera" msprop:Generator_UserColumnName="Carrera">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTableAlumnos" />
+      <xs:field xpath="mstns:NC" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

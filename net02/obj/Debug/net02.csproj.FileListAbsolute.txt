@@ -1,0 +1,16 @@
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.csproj.AssemblyReference.cache
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Form1.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Properties.Resources.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.csproj.GenerateResource.cache
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.csproj.CoreCompileInputs.cache
+C:\Users\luism\source\repos\net02\net02\bin\Debug\net02.exe.config
+C:\Users\luism\source\repos\net02\net02\bin\Debug\net02.exe
+C:\Users\luism\source\repos\net02\net02\bin\Debug\net02.pdb
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.exe
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.pdb
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Views.BDSimple.bd1.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Views.altas.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Views.AlumnosPrincipal.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Views.BDSimple.bd2.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Views.Menu.resources
+C:\Users\luism\source\repos\net02\net02\obj\Debug\net02.Views.modificar.resources
